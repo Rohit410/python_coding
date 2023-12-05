@@ -1,1 +1,1 @@
-Basic pyhton coding
+BASIC PYTHON CODING
