@@ -1,0 +1,7 @@
+n = int(input("Enter the number n:"))
+word = ""
+temp = n
+while(temp>0):
+  word = str(temp%10) + word
+  temp = temp//10
+print(word)
